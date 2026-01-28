@@ -1,5 +1,5 @@
 #  Hey, I'm Utkarsh Pandey
-**A passionate Full Stack Developer and Data Analyst   
+A passionate Full Stack Developer and Data Analyst   
 
 Email Me 👉 ✉️ **ankurpandey1813@gmail.com** For Project or Anything Else. 😊😊
 
