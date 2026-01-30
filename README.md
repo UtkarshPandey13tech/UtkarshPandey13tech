@@ -1,12 +1,12 @@
 #  Hey, I'm Utkarsh Pandey
 A passionate Full Stack Developer and Data Analyst   
 
-Email Me 👉 ✉️ **ankurpandey1813@gmail.com** For Project or Anything Else. 😊😊
+Email Me -  **ankurpandey1813@gmail.com** For Project or Anything Else.
 
 - **I’m currently Pursuing B-Tech in Computer Science** 
 - **I’m currently learning:** Full Stack Development and Data Analytics
 - **Ask me about:** Projects , Tech Support
-- **How to reach me:** ankurpandey1813@gmail.com
+- **How to reach me:** ankurpandey1813@gmail.com , www.linkedin.com/in/utkarsh-pandey-865a04292
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-pandey-865a04292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurpandey1813@gmail.com) 
 
