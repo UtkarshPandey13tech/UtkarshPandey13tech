@@ -1,7 +1,7 @@
 #  Hey, I'm Utkarsh Pandey
 A passionate Full Stack Developer
 
-Email Me -  **ankurpandey1813@gmail.com** For Project or Anything Else.
+Email Me - **ankurpandey1813@gmail.com** For Project or Anything Else.
 
 - **I’m currently Pursuing B-Tech in Computer Science** 
 - **I’m currently learning:** Full Stack Development and Data Analytics
